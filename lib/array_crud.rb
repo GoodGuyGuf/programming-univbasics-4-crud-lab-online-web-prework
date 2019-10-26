@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach", "arrays!"]
+   anime = ["wow", "My hero academia", "Attack on Titan", "Bleach", "arrays!"]
   anime.shift
 end
 
