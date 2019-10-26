@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach"]
   element = "Hunter x Hunter"
+  anime/push()
 end
 
 def add_element_to_start_of_array(array, element)
