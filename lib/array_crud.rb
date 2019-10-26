@@ -12,14 +12,17 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
+   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach"]
   anime.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
+   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach"]
   anime.pop
 end
 
 def remove_element_from_start_of_array(array)
+   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach"]
   anime.shift
 end
 
