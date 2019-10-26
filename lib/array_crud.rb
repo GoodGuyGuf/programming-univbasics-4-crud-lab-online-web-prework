@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   anime = ["One piece", "My hero academia", "Attack on Titan", "Bleach"]
-  element = "arrays!"
   anime.push("arrays!")
 end
 
